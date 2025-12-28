@@ -1,0 +1,7 @@
+{
+  "name": "Copy of NutriGuide AI",
+  "description": "An AI-powered nutrition platform that provides personalized meal plans, guidelines, and progress tracking based on user health goals and preferences.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
